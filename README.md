@@ -11,7 +11,7 @@
 
 ## 🚀 What I’m Building
 - **NearKart** – real‑time marketplace connecting 400 + street vendors to local customers  
-  <sub>Built with Flutter (📱), NestJS (🚀), MongoDB (🍃), PostgreSQL (🐘), RabbitMQ (📨), AWS (☁️), Docker (🐳)</sub>
+  <sub>Built with Flutter (📱), NestJS (🚀), MongoDB (🍃), RabbitMQ (📨), AWS (☁️)</sub>
 - ⚙️ Micro‑services, event‑driven backends & CI/CD pipelines that ship faster than designers can say “tweak the padding”
 - 📚 Weekends spent teaching Data Structures & Algorithms to college students
 
