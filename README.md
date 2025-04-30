@@ -38,7 +38,7 @@
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Seamless Flutter to Android: Unveiling GitPod’s Next Chapter](https://medium.com/@guptan404/seamless-flutter-to-android-unveiling-gitpods-next-chapter-ccb22d37a040) _(Aug 14 2023)_
-- [Seamless Flutter Development on GitHub Web IDE using GitPod](https://medium.com/@guptan404/seamless-flutter-development-on-github-web-ide-using-gitpod-61bb5d317637) _(Aug 4 2023)_
+- [Seamless Flutter Development on GitHub Web IDE using GitPod](https://medium.com/@guptan404/seamless-flutter-development-on-github-web-ide-using-gitpod-dcefa2c08a08) _(Aug 4 2023)_
 - [Understanding the Project Structure & Exploring the Dart Code](https://medium.com/@guptan404/understanding-the-project-structure-and-exploring-the-dart-code-getting-started-with-flutter-a793a7d3a4fd) _(Jul 29 2023)_
 - [Getting Started with Flutter: Building Your First App](https://medium.com/@guptan404/getting-started-with-flutter-building-your-first-app-introduction-6e64f41e26e6) _(Jul 28 2023)_
 <!-- BLOG-POST-LIST:END -->
