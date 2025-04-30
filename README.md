@@ -45,7 +45,7 @@
 
 ## 🎓 How I Can Help
 - **Technical Mentorship:** DSA, Flutter, backend architecture, scaling Mongo/Postgres
-- **Startup Advice:** MVP scoping, go-to-market, YC prep
+- **Startup Advice:** MVP scoping, go-to-market
 - **Talks & Workshops:** Invite me to speak on micro‑services or cost‑effective infra
 
 ## 🤝 Let’s Connect
