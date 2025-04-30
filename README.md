@@ -10,9 +10,9 @@
 ---
 
 ## 🚀 What I’m Building
-- **NearKart** – real-time marketplace connecting 400 + street vendors to local customers  
+- **NearKart** – real‑time marketplace connecting 400 + street vendors to local customers  
   <sub>Built with Flutter (📱), NestJS (🚀), MongoDB (🍃), PostgreSQL (🐘), RabbitMQ (📨), AWS (☁️), Docker (🐳)</sub>
-- ⚙️ Micro-services, event-driven backends & CI/CD pipelines that ship faster than designers can say “tweak the padding”
+- ⚙️ Micro‑services, event‑driven backends & CI/CD pipelines that ship faster than designers can say “tweak the padding”
 - 📚 Weekends spent teaching Data Structures & Algorithms to college students
 
 ## 🛠️ Tech Toolbox
@@ -26,7 +26,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-> **Current fascination:** LLM-powered chatbots & streaming architectures
+> **Current fascination:** LLM‑powered chatbots & streaming architectures
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -37,29 +37,23 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Seamless Flutter to Android: Unveiling GitPod’s Next Chapter](https://medium.com/@guptan404/seamless-flutter-to-android-unveiling-gitpods-next-chapter-ccb22d37a040) _(Aug 14 2023)_
-- [Seamless Flutter Development on GitHub Web IDE using GitPod](https://medium.com/@guptan404/seamless-flutter-development-on-github-web-ide-using-gitpod-61bb5d317637) _(Aug 4 2023)_
-- [Understanding the Project Structure & Exploring the Dart Code](https://medium.com/@guptan404/understanding-the-project-structure-and-exploring-the-dart-code-getting-started-with-flutter-a793a7d3a4fd) _(Jul 29 2023)_
-- [Getting Started with Flutter: Building Your First App](https://medium.com/@guptan404/getting-started-with-flutter-building-your-first-app-introduction-6e64f41e26e6) _(Jul 28 2023)_
+- [Seamless Flutter to Android: Unveiling GitPod’s Next Chapter](https://medium.com/@guptan404/seamless-flutter-to-android-unveiling-gitpods-next-chapter-ccb22d37a040) _(Aug 14 2023)_
+- [Seamless Flutter Development on GitHub Web IDE using GitPod](https://medium.com/@guptan404/seamless-flutter-development-on-github-web-ide-using-gitpod-61bb5d317637) _(Aug 4 2023)_
+- [Understanding the Project Structure & Exploring the Dart Code](https://medium.com/@guptan404/understanding-the-project-structure-and-exploring-the-dart-code-getting-started-with-flutter-a793a7d3a4fd) _(Jul 29 2023)_
+- [Getting Started with Flutter: Building Your First App](https://medium.com/@guptan404/getting-started-with-flutter-building-your-first-app-introduction-6e64f41e26e6) _(Jul 28 2023)_
 <!-- BLOG-POST-LIST:END -->
 
-<details>
-<summary><b>Automate this list?</b></summary>
+## 🎓 How I Can Help
+- **Technical Mentorship:** DSA, Flutter, backend architecture, scaling Mongo/Postgres
+- **Startup Advice:** MVP scoping, go-to-market, YC prep
+- **Talks & Workshops:** Invite me to speak on micro‑services or cost‑effective infra
 
-Add a workflow like the snippet below in `.github/workflows/blog.yml` to refresh it every 12 hours:
+## 🤝 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-gupta/)
+[![Mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptan404@gmail.com)
 
-```yaml
-name: Update recent Medium posts
-on:
-  schedule:
-    - cron: '0 */12 * * *'
-  workflow_dispatch:
+---
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: gautamkrishnar/blog-post-workflow@v2
-        with:
-          feed_list: "https://medium.com/feed/@guptan404"
-          max_post_count: 4
+<p align="center">
+  <i>“Code is poetry—mine just happens to hum a Punjabi folk beat.”</i>
+</p>
