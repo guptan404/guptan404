@@ -31,8 +31,6 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guptan404&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=guptan404&hide_border=true" alt="GitHub streak">
 </p>
 
 ## 📝 Latest Blog Posts
