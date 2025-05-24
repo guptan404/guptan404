@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Founder &nbsp;@&nbsp;<a href="https://nearkart.in">NearKart</a> • Full-Stack&nbsp;& Mobile Dev • DSA Mentor • Eternal Hacker
+  Founder &nbsp;@&nbsp;<a href="https://www.nearkart.in">NearKart</a> • Full-Stack&nbsp;& Mobile Dev • DSA Mentor • Eternal Hacker
 </p>
 
 ---
